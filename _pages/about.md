@@ -13,12 +13,14 @@ Postdoctoral Researcher at Mobility, Behavior, and Advanced Powertrains Group, N
 - Master of Science in Computer Science, University of Southern California (USC), 2020-2022
 - Master of Science in Electrical Engineering, Harbin Institute of Technology (HIT), 2016-2018
 - Bachelor of Science in Electrical Engineering, Harbin Institute of Technology (HIT), 2012-2016
+
 ## Research Interests
 - Operation Research in Transportation
 - Artificial Intelligence for Transportation
 - Large Scale Optimization
 - Graphic Neural Network
 - Statistical Modeling
+
 ## Projects
 
 ## Publication
