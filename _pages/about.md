@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Postdoctoral Researcher, Mobility, Behavior, and Advanced Powertrains Group, National Renewable Energy Laboratory (NREL)**
+**Postdoctoral Researcher at Mobility, Behavior, and Advanced Powertrains Group, National Renewable Energy Laboratory (NREL)**
 ## Education
 ### Ph.D. in Industrial Systems & Engineering
 - **University of Southern California (USC), 2018-2023**
