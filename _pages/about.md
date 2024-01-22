@@ -31,6 +31,7 @@ Postdoctoral Researcher at Mobility, Behavior, and Advanced Powertrains Group, N
 * A. Moore, **Mingdong Lyu**, R. Hall, "Tracking Covid-19 Cases and Deaths in the United States Distribution of Events by Day of Pandemic", Statistical Methods in Medical Research, 2021
 * Decker Nathan, **Mingdong Lyu**, Yuanxiang Wang, Qiang Huang. "Geometric Accuracy Prediction and Improvement for Additive Manufacturing Using Triangular Mesh Shape Data." Journal of Manufacturing Sci. and Eng., June 2021
 * Q. Huang, Y. Wang, **Mingdong Lyu**, and W. Lin, "Shape Deviation Generator—A Convolution Framework for Learning and Predicting 3-D Printing Shape Accuracy", IEEE Trans. Autom. Sci. Eng., January 2020
+
 ## Awards
 * Health Systems Science and Innovation Student Innovators Fellowship 2022
 * USC Viterbi Ph.D. Fellowship in Industrial & Systems Engineering 2018~2019
