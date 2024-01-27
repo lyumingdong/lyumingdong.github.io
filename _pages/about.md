@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 Postdoctoral Researcher at Mobility, Behavior, and Advanced Powertrains Group, National Renewable Energy Laboratory (NREL) 
+You can find my Curriculum Vitae here: [Mingdong's CV](.../files/CV-Mingdong Lyu2024.pdf)
 ## Education
 - Ph.D. in Industrial Systems & Engineering, University of Southern California (USC), 2018-2023
 - Master of Science in Computer Science, University of Southern California (USC), 2020-2022
