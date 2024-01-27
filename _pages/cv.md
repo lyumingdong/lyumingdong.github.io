@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 CV
 ======
-You can find my Curriculum Vitae [here](.../assets/).
+You can find my Curriculum Vitae [here](.../files/CV-Mingdong Lyu2024.pdf).
 
 Education
 ======
