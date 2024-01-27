@@ -21,6 +21,9 @@ Education
   
 Work experience
 ======
+* 2023.6 ~ present, Postdoctoral Researcher, [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)
+* 2022.10 ~ 2023.6, Research Intern, [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)
+* 2018.8 ~ 2020.6, Research Assistant, [University of Southern California (USC)](https://ise.usc.edu/)
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -65,19 +68,19 @@ Awards
 * Outstanding Graduate Thesis of Harbin Institute of Technology 2016
 * Meritorious Winner of Mathematical Contest in Modeling 2015
 <!---
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  Talks
+  ======
+    <ul>{% for post in site.talks %}
+      {% include archive-single-talk-cv.html %}
+    {% endfor %}</ul>
+    
+  Teaching
+  ======
+    <ul>{% for post in site.teaching %}
+      {% include archive-single-cv.html %}
+    {% endfor %}</ul>
+    
+  Service and leadership
+  ======
+  * Currently signed in to 43 different slack teams
 --->
