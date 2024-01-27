@@ -18,7 +18,7 @@ You can find my Curriculum Vitae here: [Mingdong's CV](.../files/CV-Mingdong Lyu
 - Bachelor of Science in Electrical Engineering, Harbin Institute of Technology (HIT), 2012-2016
 
 ## Research Interests
-- Operation Research in Transportation
+- Vehicle Routing Problem with uncertain travel time
 - Artificial Intelligence for Transportation
 - Large Scale Optimization
 - Graphic Neural Network
