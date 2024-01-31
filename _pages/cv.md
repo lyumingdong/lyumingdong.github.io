@@ -24,15 +24,7 @@ Work experience
 * 2023.6 ~ present, Postdoctoral Researcher, [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)
 * 2022.10 ~ 2023.6, Research Intern, [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)
 * 2018.8 ~ 2020.6, Research Assistant, [University of Southern California (USC)](https://ise.usc.edu/)
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
