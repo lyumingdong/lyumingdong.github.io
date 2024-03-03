@@ -26,10 +26,12 @@ You can find my Curriculum Vitae here: [Mingdong's CV](.../files/CV-Mingdong Lyu
 
 ## Projects
 * **Proximal Policy Optimization (PPO) Reinforcement Learning for Vehicle Routing with Routee Compass**
-Applied PPO algorithms for vehicle routing with Routee Compass, optimizing cost efficiency by balancing time, distance, and energy. Achieved a 17% average reduction in operational costs by implementing these optimal routing policies.
+
+  Applied PPO algorithms for vehicle routing with Routee Compass, optimizing cost efficiency by balancing time, distance, and energy. Achieved a 17% average reduction in operational costs by implementing these optimal routing policies.
 
 * **Hierarchical Optimization Method (HOME) for eVTOL Network Design**
-Initiated the design of a Hierarchical Optimization Method (HOME) for eVTOL network planning, combining integer linear programming with parallel computing. This method improved computational speed, reducing processing times from hours to minutes for complex network designs, and was validated through comparison with traditional methods in peer-reviewed forums.
+
+  Initiated the design of a Hierarchical Optimization Method (HOME) for eVTOL network planning, combining integer linear programming with parallel computing. This method improved computational speed, reducing processing times from hours to minutes for complex network designs, and was validated through comparison with traditional methods in peer-reviewed forums.
 ## Publication
 * Mingyi He, **Mingdong Lyu** et al., "A Hierarchical Optimization MEthod (HOME) for eVTOL Network Design", Computer-Aided Civil and Infrastructure Engineering, 2023 (Under review) 
 * Mingyi He, **Mingdong Lyu** et al., "GravAttn: A spatially-transferable gravity model for trip distribution based on Graph Attention Network and self-attention", Transportation Research Board, 2023 
