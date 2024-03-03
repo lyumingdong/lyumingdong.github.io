@@ -32,6 +32,16 @@ You can find my Curriculum Vitae here: [Mingdong's CV](.../files/CV-Mingdong Lyu
 * **Hierarchical Optimization Method (HOME) for eVTOL Network Design**
 
   Initiated the design of a Hierarchical Optimization Method (HOME) for eVTOL network planning, combining integer linear programming with parallel computing. This method improved computational speed, reducing processing times from hours to minutes for complex network designs, and was validated through comparison with traditional methods in peer-reviewed forums.
+
+* **Multi-model Route Energy Prediction under Uncertainty with Routee Powertrain**
+  Designed and deployed a suite of algorithms to forecast energy costs under uncertainty, supporting decisions for over 1.4 million road links. This suite, consisting of Random Forest, XGBoost regression, and MLP Neural Network, enabled Routee Powertrain to offer predictions with an 11% lower error margin, greatly aiding in route planning and energy management.
+* **Self-attention Graph Convolution Network Model for International Air Passenger Flow**
+  Created a Self-Attention Graph Convolutional Network (SAGCN) to forecast international air passenger flows, employing Graph Convolution Network for node embedding with transformers for self-attention mechanisms. Demonstrated a 14% improvement in prediction accuracy over traditional deep gravity models.
+* **Dynamic Multimodal Route Planner for Large-Scale Mobility Analysis**
+  Collaboratively developed a dynamic multimodal routing algorithm using A* search to integrate various travel modes, dynamically adjust travel times, and employ parallel AWS for performance improvement. This innovative approach reduced the computation time from three months to just 48 hours for analyzing the entire United States, showcasing a substantial leap in algorithmic efficiency and large-scale mobility analysis capabilities.
+* **Integrated Modeling and Healthcare Resource Optimization in Pandemics**
+  Developed a compartmental model and dynamic optimization strategy for pandemic resource allocation, utilizing a novel Euler simplification for non-linear differential equations. This model guided vaccine distribution strategies, reducing case number by around 220,010 and fatalities by around 6,300.
+
 ## Publication
 * Mingyi He, **Mingdong Lyu** et al., "A Hierarchical Optimization MEthod (HOME) for eVTOL Network Design", Computer-Aided Civil and Infrastructure Engineering, 2023 (Under review) 
 * Mingyi He, **Mingdong Lyu** et al., "GravAttn: A spatially-transferable gravity model for trip distribution based on Graph Attention Network and self-attention", Transportation Research Board, 2023 
