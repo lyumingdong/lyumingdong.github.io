@@ -42,12 +42,7 @@ Publications
 * A. Moore, **Mingdong Lyu**, R. Hall, "Tracking Covid-19 Cases and Deaths in the United States Distribution of Events by Day of Pandemic", Statistical Methods in Medical Research, 2021
 * Decker Nathan, **Mingdong Lyu**, Yuanxiang Wang, Qiang Huang. "Geometric Accuracy Prediction and Improvement for Additive Manufacturing Using Triangular Mesh Shape Data." Journal of Manufacturing Sci. and Eng., June 2021
 * Q. Huang, Y. Wang, **Mingdong Lyu**, and W. Lin, "Shape Deviation Generator—A Convolution Framework for Learning and Predicting 3-D Printing Shape Accuracy", IEEE Trans. Autom. Sci. Eng., January 2020
-  
-<!---
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
---->
+
 
 Awards
 ======
@@ -59,20 +54,4 @@ Awards
 * First Prize Scholarship for Graduate Student of Harbin Institute of Technology 2015~2016
 * Outstanding Graduate Thesis of Harbin Institute of Technology 2016
 * Meritorious Winner of Mathematical Contest in Modeling 2015
-<!---
-  Talks
-  ======
-    <ul>{% for post in site.talks %}
-      {% include archive-single-talk-cv.html %}
-    {% endfor %}</ul>
-    
-  Teaching
-  ======
-    <ul>{% for post in site.teaching %}
-      {% include archive-single-cv.html %}
-    {% endfor %}</ul>
-    
-  Service and leadership
-  ======
-  * Currently signed in to 43 different slack teams
---->
+
